@@ -5,13 +5,13 @@ var huruf = 'Ridhwan';
 //Boolean
 var boolean = true;
 //Function
-var fungsi = function(){
+var fungsi = function () {
     console.log('Ini function')
-} 
+}
 //Object
 var objectData = {
-    nama : 'Ridhwan',
-    umur : 19
+    nama: 'Ridhwan',
+    umur: 19
 };
 //Null
 var kosong = null;
@@ -19,4 +19,5 @@ var kosong = null;
 var data;
 console.log(data)
 //TypeOff
-console.log(typeof(nomor))
+console.log(typeof (nomor))
+console.log(typeoff(kosong))
